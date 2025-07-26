@@ -29,6 +29,7 @@ This project allows students to **register**, **log in**, manage their **profile
 - Feature placeholder included
 
 🗂️ Project Structure
+
 job-portal-app/
 ├── backend/ 
 │ ├── controller/ 
@@ -45,15 +46,16 @@ job-portal-app/
 ⚙️ Getting Started
 
 1. Clone the Repository:
+
 git clone  https://github.com/patelaayush11330/job-portal-app.git
 
 cd job-portal-app
 
-2. Run Backend (Spring Boot)
+2. Run Backend (Spring Boot):
 
 cd backend
 
-./mvnw spring-boot:run     # or mvn spring-boot:run
+./mvnw spring-boot:run     
 
 📍 Backend runs on: http://localhost:8080
 
